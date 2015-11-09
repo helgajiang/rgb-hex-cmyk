@@ -1,1 +1,2 @@
-# rgb-hex-cymk
+# rgb-hex-cmyk
+A RGB to Hex to CMYK converter.
